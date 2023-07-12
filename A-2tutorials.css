@@ -1,0 +1,42 @@
+h1
+{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+.item-card {
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+.item-title {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+.item-description {
+    margin-top: 5px;
+  }
+  
+.item-button {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+
+  }
+  
+img
+ {
+    width: 180px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+ }
